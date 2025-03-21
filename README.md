@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   </a>
   &emsp;
   <a> 
-    <img alt="SQLServer" src="" width="48">
+    <img alt="SQLServer" src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="48">
   </a>
   &emsp;
   <a> 
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   </a>
   &emsp;
   <a> 
-    <img alt="MySQL" src="" width="48">
+    <img alt="MySQL" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="48">
   </a>
   
 </p>
@@ -89,24 +89,13 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/joselito-beriguete-nu%C3%B1ez-3b2812186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Joselito" height="30" width="40" /></a>
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"
+      alt="LinkIn" height="30" width="40" /></a>
   <a href="https://www.instagram.com/joselito_beriguete?igsh=MXZpaGZoc3l2aW9wbw==" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Joselito" height="30" width="40" /></a>
+      alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.facebook.com/share/1HJbt9s9bq/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Joselito" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+      src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png"
+      alt="Facebook" height="30" width="30" /></a>
 </p>
-
------
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
- </p>
+<br/>
